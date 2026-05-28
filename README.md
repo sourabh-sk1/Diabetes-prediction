@@ -1,6 +1,6 @@
-# Diabetes Prediction Repository
+# Diabetes Prediction 
 
-## Repository Overview
+## Overview
 This repository contains two related diabetes prediction projects:
 
 - `diabetes_ai_app`: A Python Flask application that trains a machine learning model, serves a prediction interface, and stores prediction history in MongoDB.
